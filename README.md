@@ -1,2 +1,2 @@
-# Responsive-Landing-Page
+# Landing-Page
 A responsive landing page using HTML, CSS AND JS
